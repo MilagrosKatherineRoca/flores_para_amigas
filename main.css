@@ -49,6 +49,8 @@ body {
   opacity: 0;
   animation: fadeIn 3s ease-in-out forwards;
   text-align: center;
+  justify-content: space-around;
+
 }
 @keyframes fadeIn {
   from {
